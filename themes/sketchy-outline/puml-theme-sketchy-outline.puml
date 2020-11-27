@@ -90,7 +90,7 @@ skinparam shadowing false
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Segoe Print"
+skinparam defaultFontName       "等距更纱黑体 SC"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false

@@ -80,7 +80,7 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Verdana"
+skinparam defaultFontName       "等距更纱黑体 SC"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false
@@ -443,7 +443,7 @@ skinparam useBetaStyle true
 
 !startsub mindmap
 
-<style> 
+<style>
 style mindmapDiagram {
   'Padding 8
   Margin 8

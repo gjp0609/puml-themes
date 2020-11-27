@@ -1,6 +1,6 @@
 ''
 '' Author: Brett Schwarz
-'' 
+''
 
 !$THEME = "resume-light"
 
@@ -12,7 +12,7 @@ skinparam backgroundColor $BGCOLOR
 
 
 skinparam  {
-    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontName   "等距更纱黑体 SC"
     skinparam defaultFontSize   12
     defaultTextAlignment        center
     shadowing                   false

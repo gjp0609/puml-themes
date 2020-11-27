@@ -83,14 +83,14 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Verdana"
+skinparam defaultFontName       "等距更纱黑体 SC"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             true
 skinparam roundcorner           8
 skinparam ParticipantPadding    40
 skinparam BoxPadding            40
-skinparam Padding               10 
+skinparam Padding               10
 skinparam TitleFontColor	    $DARK
 skinparam TitleFontSize	    	20
 skinparam TitleBorderThickness 	0

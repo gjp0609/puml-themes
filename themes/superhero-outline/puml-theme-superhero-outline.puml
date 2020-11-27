@@ -49,7 +49,7 @@ skinparam backgroundColor $BGCOLOR
 !$PRIMARY_TEXT = $PRIMARY
 !$SECONDARY_DARK = "#717d89"
 !$SECONDARY_LIGHT = "#3e4a56"
-!$SECONDARY_TEXT = $SECONDARY_DARK 
+!$SECONDARY_TEXT = $SECONDARY_DARK
 !$INFO_DARK = "#7ccde5"
 !$INFO_LIGHT = "#499AB2"
 !$INFO_TEXT = $INFO
@@ -88,7 +88,7 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName       "Verdana"
+skinparam defaultFontName       "等距更纱黑体 SC"
 skinparam defaultFontSize       12
 skinparam dpi                   100
 skinparam shadowing             false

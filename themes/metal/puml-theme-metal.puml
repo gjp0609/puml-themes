@@ -21,15 +21,15 @@ skinparam backgroundColor $BGCOLOR
 !$SILVER = "#c0c0c0"
 !$COPPER = "#B87333c"
 !$STEELBLUE = "#4682b4"
-!$LIGHTSTEELBLUE = "#B0C4DE" 
-!$LIGHTSTEELBLUE_DARK = "#8d9db2" 
-!$LIGHTSTEELBLUE_LIGHT = "#c0d0e5" 
+!$LIGHTSTEELBLUE = "#B0C4DE"
+!$LIGHTSTEELBLUE_DARK = "#8d9db2"
+!$LIGHTSTEELBLUE_LIGHT = "#c0d0e5"
 !$ALUMINUM = "#c9ced0"
 !$ALUMINUM_DARK = "#a1a5a6"
 !$ALUMINUM_LIGHT = "#d4d8d9"
-!$BRONZE = "#CD7F32" 
-!$BRONZE_DARK = "#a46628" 
-!$BRONZE_LIGHT = "#d7995b" 
+!$BRONZE = "#CD7F32"
+!$BRONZE_DARK = "#a46628"
+!$BRONZE_LIGHT = "#d7995b"
 !$GOLD = "#FFD700"
 !$PLATINUM = "#E5E4E2"
 !$RUST = "#B7410E"
@@ -88,7 +88,7 @@ skinparam backgroundColor $BGCOLOR
 ''
 '' Global Default Values
 ''
-skinparam defaultFontName        "Verdana"
+skinparam defaultFontName        "等距更纱黑体 SC"
 skinparam defaultFontSize        12
 skinparam dpi                    100
 skinparam shadowing              false
