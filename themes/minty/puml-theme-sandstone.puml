@@ -29,8 +29,8 @@ skinparam backgroundColor $BGCOLOR
 !$WHITE = "#fff"
 !$GRAY = "#888"
 !$GRAYDARK = "#343a40"
-!$PRIMARY = "#78c2ad"
-!$SECONDARY = "#f3969a"
+!$PRIMARY = "#58a28d"
+!$SECONDARY = "#ffb7bc"
 !$SUCCESS = "#56cc9d"
 !$INFO = "#6cc3d5"
 !$WARNING = "#ffce67"
@@ -43,7 +43,7 @@ skinparam backgroundColor $BGCOLOR
 '' *_LIGHT = shade (darker) of the main color of 80%
 ''          and SHADE is calculated by clr * (1 - shade_factor)
 ''
-!$FGCOLOR = $WHITE
+!$FGCOLOR = "#4ca3b5"
 !$PRIMARY_DARK = "#6caf9c"
 !$PRIMARY_LIGHT = "#86c8b5"
 !$PRIMARY_TEXT = $WHITE
@@ -129,7 +129,7 @@ skinparam swimlane {
 	BorderColor $INFO
 	BorderThickness 2
 	TitleBackgroundColor  $SECONDARY_LIGHT-$SECONDARY
-	TitleFontColor $PRIMARY
+	TitleFontColor $DARK
 }
 !endsub
 
